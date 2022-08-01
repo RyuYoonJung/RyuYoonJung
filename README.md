@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Welcome&nbsp;%to&nbsp;%my&nbsp;%Github&fontSize=40&animation=fadeIn)
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">😺&zwj;</g-emoji> Personal Info</h2>
+Hello i am Yoonjeong! I've been working in advertising industry for 2 years.<br>
+Currently, I am studying hard to become a Java web developer.<br>
+I will grow up to be a developer with knowledge in various industries.<br>
+And I'm a simple person who loves music and what a lovley cats.<br>
+Always cheer for developers in all fields, no cap! Everyone go for it!
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="hammer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f528.png">⚙️</g-emoji> Technology Stacks</h2>
 <ul dir="auto">
